@@ -1,45 +1,45 @@
-title: Travian Calculators
-home: Home
-delivery: Delivery Calculator
-imprint: Imprint
-travian_footer: This website is in no way endorsed by Travian Legends or Travian GmbH and is merely meant as a tool for players.
-welcome_header: Welcome!
-welcome_text: Choose a calculator from the menu above.
-delivery_calculator: Delivery Calculator
-inputs: Inputs
-tribe: Tribe
-speed: Speed
-world_speed: World Speed
-capacity: Capacity
-lumber: Lumber
-clay: Clay
-iron: Iron
-crop: Crop
-total: Total
-celebration: Celebration
-trade_every: One Trade every
-traders_per_trade: Traders per trade
-travel_time: Travel Time
-distance: Distance
-main: Main
-source: Source Code
-source_title: Enter the source code of the market place's send window.
-celebrations: Celebrations
-help: Do you want to help with code or translations?
-none: None
-small: Small
-great: Great
-automatically: Automatically
-romans: Romans
-teutons: Teutons
-gauls: Gaul
-egyptians: Egyptians
+title: Travian Rekenmachines
+home: Thuis
+delivery: Bezorging
+imprint: Afdruk
+travian_footer: Deze website wordt op geen enkele manier onderschreven door Travian Legends of Travian GmbH en is slechts bedoeld als hulpmiddel voor spelers.
+welcome_header: Welkom!
+welcome_text: Kies een rekenmachine van bovenstaand venster
+delivery_calculator: Handel rekenmachine
+inputs: Invoer
+tribe: Stam
+speed: Snelheid
+world_speed: Snelheid Wereld
+capacity: Capaciteit
+lumber: Hout
+clay: Klei
+iron: Ijzer
+crop: Graan
+total: Totaal
+celebration: Feest
+trade_every: One ruil elke
+traders_per_trade: Handelaren per ruil
+travel_time: Reistijd
+distance: Afstand
+main: Basis
+source: Bron Code
+source_title: Voeg de code toe van de marktplaats verstuur pagina
+celebrations: Feesten
+help: Heb je hulp nodig met coden of vertalingen?
+none: Geen
+small: Klein
+great: Groot
+automatically: Automatisch
+romans: Romeinen
+teutons: Germanen
+gauls: Galliërs
+egyptians: Egyptenaren
 huns: Huns
-additional_target: Additional Target
-additional_target_title: 0|0 will be ignored
-only_crop: Only Crop
-town_hall_level: Town Hall Level
-tribe_title: Only select if it's wrongly detected
+additional_target: Extra doel
+additional_target_title: 0|0 wordt genegeerd
+only_crop: Alleen graan
+town_hall_level: Raadhuis level
+tribe_title: Alleen aangeven wanneer niet goed gedecteerd.
 advanced: Advanced
 gelding: Gelding
 gelding_effect: The speed of your hero is raised to 14 fields per hour
@@ -280,15 +280,15 @@ recruiting_level: Recruitment Building Level
 great_recruiting_level: Great Recruitment Building Level
 use_great_recruiting: Use Great Recruitment Building
 normal_recruiting: Normally recruited Troops
-helmet_bonus: Helmet Bonus
+helmet_bonus: Helm Bonus
 horse_trough_level: Horse drinking trouve level
 artefact_bonus: Artefact Bonus
-alliance_bonus: Alliance Bonus
-soldier_cost: Soldier Cost Calculator
-deff_calls: Deff-Calls
-alliances: Alliances
-name: Name
+alliance_bonus: Alliantie Bonus
+soldier_cost: Kosten van manschappen
+deff_calls: Verdediging oproepen
+alliances: Allianties
+name: Naam
 rank: Rank
-login_benefits: Login to save your deff-calls in your profile page and join alliances.
-invite: Invite
-alliance: Alliance
+login_benefits: Login to save your deff-calls in your profile page and join alliances. Log-in voor het opslaan van: Verdediging-oproepen op je profielpagina en het joinen van allianties.
+invite: Uitnodiging
+alliance: Alliantie
